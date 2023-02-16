@@ -45,6 +45,12 @@ Téléchargement des modules néccesaires
   pip install -r requirements.txt
 ```
 
+Lancement du projet
+
+```bash
+  python main.py
+```
+
 ## Configuration
 
 Pour configurer le bot, il faudra un token et un prefix
