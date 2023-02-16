@@ -1,0 +1,6 @@
+nextcord
+aiohttp
+asyncio
+requests
+py-dactyl
+colorama
