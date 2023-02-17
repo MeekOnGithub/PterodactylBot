@@ -48,7 +48,7 @@ Téléchargement des modules néccesaires
 Lancement du projet
 
 ```bash
-  python main.py
+  python3 main.py
 ```
 
 ## Configuration
